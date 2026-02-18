@@ -20,6 +20,6 @@ This directory contains **proposed policy changes** that are currently open for 
 
 | Draft File | Related PR | Review Deadline |
 |------------|-----------|-----------------|
-| *(None currently)* | — | — |
+| [Draft_Privacy_Policy.md](./Draft_Privacy_Policy.md) | [PR #1 — Privacy Policy v7](https://github.com/ejz218/policy-repository/pull/1) | TBD |
 
-> This table is updated manually. The [open PRs list](../../pulls?q=is%3Aopen+label%3Apolicy-review) is always the most current source.
+> This table is updated manually. The [open PRs list](https://github.com/ejz218/policy-repository/pulls?q=is%3Aopen+label%3Apolicy-review) is always the most current source.
