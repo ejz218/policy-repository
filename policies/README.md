@@ -13,5 +13,6 @@ Previous versions of any policy are accessible via Git history:
 | File | Policy Name | Effective Date |
 |------|-------------|----------------|
 | [policy-template.md](./policy-template.md) | *(Template — not a real policy)* | — |
+| [privacy-policy.md](./privacy-policy.md) | Privacy Policy | 2003-11-11 |
 
 > Add rows here as policies are adopted.
